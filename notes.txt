@@ -1,0 +1,9 @@
+npm i express mongoose jsonwebtoken bcrypt cookie-parser dotenv cors
+
+npx-->>  Allows you to Run packages without installing them globally.
+
+morgan
+
+Services Folder-->> is used to intereact with third-party interaction like MongoDB
+
+Work of UserController -->> validate the incoming data 
